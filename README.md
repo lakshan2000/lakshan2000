@@ -1,6 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Lakshan Ekanayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477ssv9z8fs60nq44t0ez2rkr2k7b8vcfxdg5h08wu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan2000&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan2000" /> </p>
 
